@@ -1,0 +1,17 @@
+(fp_lib_table
+  (version 7)
+  (lib
+    (name "ACUITY47")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/footprints/ACUITY47.pretty")
+    (options "")
+    (descr "ACUITY47 project-specific footprints")
+  )
+  (lib
+    (name "kbd")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/footprints/kbd.pretty")
+    (options "")
+    (descr "External keyboard footprints")
+  )
+)
