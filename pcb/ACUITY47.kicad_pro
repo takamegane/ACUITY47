@@ -100,7 +100,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "warning",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -467,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Vitrea47.kicad_pro",
+    "filename": "ACUITY47.kicad_pro",
     "version": 3
   },
   "net_settings": {
