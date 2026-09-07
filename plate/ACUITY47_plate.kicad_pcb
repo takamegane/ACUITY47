@@ -5258,7 +5258,7 @@
 	(footprint "kbd_SW_Hole:SW_Hole_1u"
 		(layer "F.Cu")
 		(uuid "b5434e55-ae1d-463f-b0ff-7464ff2dbce1")
-		(at 38.1 85.72492)
+		(at 38.1 85.725)
 		(property "Reference" "SW3"
 			(at 7 8.1 0)
 			(layer "F.SilkS")
